@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer who enjoys exploring new challenges and crafting innovative solutions. Feel free to explore my projects, collaborations, and areas of interest.</h3>
+<h3 align="center"> I'm a passionate developer who enjoys exploring new challenges and crafting innovative solutions. Feel free to explore my projects, collaborations, and areas of interest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-rizqy-m&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-rizqy-m" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **laravel**
 
-- 📫 How to reach me **yusufhabib290@gmail.com**
-
-- ⚡ Fun fact **I 💖 Barcelona**
+- ⚡ **I 💖 Barcelona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
