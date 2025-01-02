@@ -8,7 +8,7 @@
 </p>
 <br>
 
->   ![Hi there!](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=40&duration=3000&pause=1000&random=false&width=435&height=60&lines=Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Yusuf+%F0%9F%98%8E;Have+a+nice+day!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+
 <br>  I am a developer from Indonesia! <img src="https://img.icons8.com/color/64/null/indonesia-circular.png" alt="Indonesia flag" width="12" height="12" />
 <br>  Currently a __Android and Web Developer__ student working on some projects.<br>
 <br>  <img src="https://komarev.com/ghpvc/?username=yusuf-rizqy-m&color=green" alt="Github profile view"> <a href="mailto:yusufrizqy6@gmail.com"><img src="https://img.shields.io/badge/yusufrizqy6@gmail.com-f54242?logo=Gmail&logoColor=white"/></a>
